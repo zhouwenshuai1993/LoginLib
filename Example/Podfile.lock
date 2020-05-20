@@ -1,0 +1,16 @@
+PODS:
+  - LoginLib (0.1.0)
+
+DEPENDENCIES:
+  - LoginLib (from `../`)
+
+EXTERNAL SOURCES:
+  LoginLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoginLib: defb410cf6f1cd6fc5a090c918fcb0b6ccb9b54a
+
+PODFILE CHECKSUM: d2a9096725fd27ac3e66ab35d51abc89bdc0830e
+
+COCOAPODS: 1.8.3
